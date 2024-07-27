@@ -3,10 +3,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Welcome to shopping cart</title>
+<%@include file="includes/head.jsp" %>
 </head>
 <body>
+<h1>Hello World</h1>
 
+
+<%@include file="includes/footer.jsp" %>
 </body>
 </html>
